@@ -8,6 +8,7 @@ I want to complete JavaScript developer courses
 Education specialized secondary.
 
 bootstrap
+html
 js
 python
 git
