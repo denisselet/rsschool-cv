@@ -9,6 +9,7 @@ Education specialized secondary.
 
 bootstrap
 html
+css
 js
 python
 git
